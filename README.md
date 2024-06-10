@@ -7,7 +7,7 @@ Toyota Models:
 4Runner2sliders.pdf  1990-1995 2nd Generation 4Runner/Hilux Surf models
 4Runner3sliders.pdf  1996-2002 3rd Generation 4Runner models
 4Runner4sliders.pdf  2003-2009 4th Generation 4Runner models
-TacomaXcabSliders.pdf  1995.5 - 2004 Tacoma Pickup models, only length changes over varios cab versions
+TacomaXcabSliders.pdf  1995.5 - 2004 Tacoma Pickup models, only length changes over various cab versions
 
 Mitsubishi Models:
 Montero1Sliders.pdf     Generation 1 Montero/Pajero models
