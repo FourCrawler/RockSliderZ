@@ -18,6 +18,7 @@ XterraSliders.pdf  2000-2004 Generation 1 Xterra models
 
 Assembly instructions:
 	https://www.4crawler.com/4x4/ForSale/Docs/NerfBarKit_HowTo.shtml
-	
+	Rock SliderZ Assembly.pdf
+ 
 Installation instructions:
 	https://www.4crawler.com/4x4/ForSale/Docs/NerfBar_HowTo.shtml
